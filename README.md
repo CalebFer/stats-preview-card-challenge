@@ -1,5 +1,8 @@
 # Frontend Mentor - Stats preview card component
 
+## Preview page
+https://c413bxd.github.io/stats-preview-card-challenge/
+
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
